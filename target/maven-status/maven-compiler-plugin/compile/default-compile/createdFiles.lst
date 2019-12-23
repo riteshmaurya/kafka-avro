@@ -1,0 +1,5 @@
+com/rm/kafka/Customer.class
+com/rm/kafka/Customer$Builder.class
+com/rm/kafka/KafkaAvroProducerV1$1.class
+com/rm/kafka/KafkaAvroProducerV1.class
+com/rm/kafka/Customer$1.class
